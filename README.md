@@ -18,14 +18,14 @@
 
 > 🧩 Everything from the **very basics** to **real projects** — all in one place.
 
-- 🟢 **Basics:** if-else, loops, inputs, operators  
-- 🧠 **Functions:** parameters, returns, lambda  
-- 🎨 **Decorators:** custom behavior for functions  
-- 🧰 **OOP Concepts:** class, object, inheritance  
-- 📂 **File Handling & Exceptions**  
-- 🔁 **Iterators & Generators**  
-- 🌐 **APIs, JSON, and Data Handling**  
-- 🚀 **Mini Projects** and practice scripts  
+- **Basics:** if-else, loops, inputs, operators  
+- **Functions:** parameters, returns, lambda  
+- **Decorators:** custom behavior for functions  
+- **OOP Concepts:** class, object, inheritance  
+- **File Handling & Exceptions**  
+- **Iterators & Generators**  
+- **APIs, JSON, and Data Handling**  
+- **Mini Projects** and practice scripts  
 
 ---
 
@@ -33,7 +33,7 @@
 
 ```bash
 # Clone this repository
-git clone https://github.com/YourUsername/python-practice.git
+git clone https://github.com/codersaed/python-practice.git
 
 # Go inside the folder
 cd python-practice
